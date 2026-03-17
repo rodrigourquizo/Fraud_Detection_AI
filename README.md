@@ -1,4 +1,4 @@
-# Fraud Detection in Banking Transactions using LLaMA and AWS
+# Credit risk classification using LLMs and AWS
 
 ![Flow Diagram](assets/flow.png)
 
